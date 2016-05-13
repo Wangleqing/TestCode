@@ -3,6 +3,7 @@ class alexdaner{
 	private String type;
 	public static void main(){
 		alexdaner a = new alexdaner(); 
+		System.out.println("wlq");
 	}
 	public void setname(String name){
 		this.name=name;
